@@ -11,7 +11,7 @@ class App < Sinatra::Base
   end
   
   post '/puppy' do
-  hello world
+  "hello world"
     
   end
 
